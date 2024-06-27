@@ -5,6 +5,6 @@ Four
 Five
 Six
 Seven
-8
-9
-10
+Eight
+Nine
+Ten
