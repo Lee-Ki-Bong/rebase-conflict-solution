@@ -2,9 +2,9 @@ một
 hai
 ba
 bốn
-fünf
-sechs
-sieben
-acht
-neun
-zehn
+năm
+sáu
+bảy
+tám
+chín
+mười
