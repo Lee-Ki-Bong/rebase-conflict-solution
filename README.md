@@ -1,7 +1,7 @@
-eins
-zwei
-drei
-vier
+một
+hai
+ba
+bốn
 fünf
 sechs
 sieben
