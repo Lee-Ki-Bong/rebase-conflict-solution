@@ -1,10 +1,10 @@
-一 (いち, ichi)
-二 (に, ni)
-三 (さん, san)
-四 (し/よん, shi/yon)
-五 (ご, go)
-六 (ろく, roku)
-七 (しち/なな, shichi/nana)
-八 (はち, hachi)
-九 (きゅう, kyuu)
-十 (じゅう, juu)
+eins
+zwei
+drei
+vier
+fünf
+sechs
+sieben
+acht
+neun
+zehn
